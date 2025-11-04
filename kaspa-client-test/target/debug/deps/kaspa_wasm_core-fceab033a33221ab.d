@@ -1,0 +1,10 @@
+/Users/yangyanglin/Desktop/web/kaspa-client-test/target/debug/deps/kaspa_wasm_core-fceab033a33221ab.d: /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kaspa-wasm-core-0.15.0/src/lib.rs /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kaspa-wasm-core-0.15.0/src/events.rs /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kaspa-wasm-core-0.15.0/src/hex.rs /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kaspa-wasm-core-0.15.0/src/types.rs
+
+/Users/yangyanglin/Desktop/web/kaspa-client-test/target/debug/deps/libkaspa_wasm_core-fceab033a33221ab.rlib: /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kaspa-wasm-core-0.15.0/src/lib.rs /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kaspa-wasm-core-0.15.0/src/events.rs /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kaspa-wasm-core-0.15.0/src/hex.rs /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kaspa-wasm-core-0.15.0/src/types.rs
+
+/Users/yangyanglin/Desktop/web/kaspa-client-test/target/debug/deps/libkaspa_wasm_core-fceab033a33221ab.rmeta: /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kaspa-wasm-core-0.15.0/src/lib.rs /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kaspa-wasm-core-0.15.0/src/events.rs /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kaspa-wasm-core-0.15.0/src/hex.rs /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kaspa-wasm-core-0.15.0/src/types.rs
+
+/Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kaspa-wasm-core-0.15.0/src/lib.rs:
+/Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kaspa-wasm-core-0.15.0/src/events.rs:
+/Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kaspa-wasm-core-0.15.0/src/hex.rs:
+/Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kaspa-wasm-core-0.15.0/src/types.rs:

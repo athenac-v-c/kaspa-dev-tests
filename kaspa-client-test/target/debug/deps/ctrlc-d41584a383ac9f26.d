@@ -1,0 +1,11 @@
+/Users/yangyanglin/Desktop/web/kaspa-client-test/target/debug/deps/ctrlc-d41584a383ac9f26.d: /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ctrlc-3.5.1/src/lib.rs /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ctrlc-3.5.1/src/error.rs /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ctrlc-3.5.1/src/platform/mod.rs /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ctrlc-3.5.1/src/platform/unix/mod.rs /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ctrlc-3.5.1/src/signal.rs
+
+/Users/yangyanglin/Desktop/web/kaspa-client-test/target/debug/deps/libctrlc-d41584a383ac9f26.rlib: /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ctrlc-3.5.1/src/lib.rs /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ctrlc-3.5.1/src/error.rs /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ctrlc-3.5.1/src/platform/mod.rs /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ctrlc-3.5.1/src/platform/unix/mod.rs /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ctrlc-3.5.1/src/signal.rs
+
+/Users/yangyanglin/Desktop/web/kaspa-client-test/target/debug/deps/libctrlc-d41584a383ac9f26.rmeta: /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ctrlc-3.5.1/src/lib.rs /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ctrlc-3.5.1/src/error.rs /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ctrlc-3.5.1/src/platform/mod.rs /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ctrlc-3.5.1/src/platform/unix/mod.rs /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ctrlc-3.5.1/src/signal.rs
+
+/Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ctrlc-3.5.1/src/lib.rs:
+/Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ctrlc-3.5.1/src/error.rs:
+/Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ctrlc-3.5.1/src/platform/mod.rs:
+/Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ctrlc-3.5.1/src/platform/unix/mod.rs:
+/Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ctrlc-3.5.1/src/signal.rs:

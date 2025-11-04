@@ -1,0 +1,14 @@
+/Users/yangyanglin/Desktop/web/kaspa-client-test/target/debug/deps/serde-01fcda3a562183ac.d: /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/yangyanglin/Desktop/web/kaspa-client-test/target/debug/build/serde-d3aca5404cb869b7/out/private.rs
+
+/Users/yangyanglin/Desktop/web/kaspa-client-test/target/debug/deps/libserde-01fcda3a562183ac.rlib: /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/yangyanglin/Desktop/web/kaspa-client-test/target/debug/build/serde-d3aca5404cb869b7/out/private.rs
+
+/Users/yangyanglin/Desktop/web/kaspa-client-test/target/debug/deps/libserde-01fcda3a562183ac.rmeta: /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/yangyanglin/Desktop/web/kaspa-client-test/target/debug/build/serde-d3aca5404cb869b7/out/private.rs
+
+/Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/Users/yangyanglin/Desktop/web/kaspa-client-test/target/debug/build/serde-d3aca5404cb869b7/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/yangyanglin/Desktop/web/kaspa-client-test/target/debug/build/serde-d3aca5404cb869b7/out

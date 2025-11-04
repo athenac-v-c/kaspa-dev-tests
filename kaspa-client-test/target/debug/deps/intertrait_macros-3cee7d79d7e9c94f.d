@@ -1,0 +1,9 @@
+/Users/yangyanglin/Desktop/web/kaspa-client-test/target/debug/deps/intertrait_macros-3cee7d79d7e9c94f.d: /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/intertrait-macros-0.2.2/src/lib.rs /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/intertrait-macros-0.2.2/src/args.rs /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/intertrait-macros-0.2.2/src/gen_caster.rs /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/intertrait-macros-0.2.2/src/item_impl.rs /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/intertrait-macros-0.2.2/src/item_type.rs
+
+/Users/yangyanglin/Desktop/web/kaspa-client-test/target/debug/deps/libintertrait_macros-3cee7d79d7e9c94f.dylib: /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/intertrait-macros-0.2.2/src/lib.rs /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/intertrait-macros-0.2.2/src/args.rs /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/intertrait-macros-0.2.2/src/gen_caster.rs /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/intertrait-macros-0.2.2/src/item_impl.rs /Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/intertrait-macros-0.2.2/src/item_type.rs
+
+/Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/intertrait-macros-0.2.2/src/lib.rs:
+/Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/intertrait-macros-0.2.2/src/args.rs:
+/Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/intertrait-macros-0.2.2/src/gen_caster.rs:
+/Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/intertrait-macros-0.2.2/src/item_impl.rs:
+/Users/yangyanglin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/intertrait-macros-0.2.2/src/item_type.rs:

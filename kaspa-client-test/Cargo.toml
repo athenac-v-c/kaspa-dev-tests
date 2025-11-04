@@ -1,0 +1,10 @@
+[package]
+name = "kaspa_client_test"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tokio = { version = "1", features = ["full"] }
+kaspa-wrpc-client = "0.15.0"
+kaspa-rpc-core = "0.15.0"
+kaspa-utils = "0.15.0"
