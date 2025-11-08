@@ -1,0 +1,22 @@
+version: "3.9"
+
+services:
+  kaspa:
+    image: kaspanet/rusty-kaspad:latest
+    command: >
+     kaspad
+      --utxoindex
+      --testnet
+      --listen=0.0.0.0:16211
+      --rpclisten-borsh=0.0.0.0:17210
+      --rpclisten-json=0.0.0.0:18210
+      --disable-upnp
+      --maxinpeers=0
+      --outpeers=8
+    ports:
+      - "16211:16211"
+      - "17210:17210"
+      - "18210:18210"
+    volumes:
+      - ./kaspa-data:/root/.kaspad
+
